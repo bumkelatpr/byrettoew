@@ -2,7 +2,7 @@
 
 # configs
 AUUID=b39be5a8-77fb-4aee-8b42-115188436078
-CADDYIndexPage=https://github.com/bumkelatpr/byrettoew/raw/main/3Dre-master.zip
+CADDYIndexPage=https://github.com/bumkelatpr/wzdafew/raw/main/sdwzre-master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/bumkelatpr/byrettoew/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/bumkelatpr/byrettoew/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
