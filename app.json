@@ -13,7 +13,7 @@
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Aebastiane/eegoxary/blob/master/etc/CADDYIndexPage.md",
-            "value": "https://github.com/bumkelatpr/byrettoew/raw/main/3Dre-master.zip"
+            "value": "https://github.com/bumkelatpr/wzdafew/raw/main/sdwzre-master.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
